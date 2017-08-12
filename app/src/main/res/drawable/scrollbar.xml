@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<gradient
+
+    android:angle="315"
+    android:type="linear"
+    android:startColor="#47d9bf"
+    android:centerColor="#32e4a9"
+    android:endColor="#02fe74"
+    />
+</shape>
+
+<!--
+    <? xml version = " 1.0 " encoding = " utf-8 " ?>
+< shape   xmlns : android = " http://schemas.android.com/apk/res/android " >
+< 그라디언트
+    android : 각도 = " 315 "
+    android : type = " linear "
+    android : startColor = " # 47d9bf "
+
+    android : centerColor = " # 32e4a9 "
+
+    android : endColor = " # 02fe74 " />
+</ shape >-->
